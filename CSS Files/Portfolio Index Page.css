@@ -1,0 +1,273 @@
+
+/*<!--navgation bar start-->*/
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; 
+   background-color: #033d42;
+	display: }
+.adnan
+{
+	margin-right: 59.65%;
+	background-color: #033d42;
+	border-radius: 10px;
+}
+
+nav ul li {
+  float: right;
+  margin: 0px;
+
+}
+
+nav ul li a {
+	height:20px;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+nav ul li a:hover {
+  background-color: #111;}
+  /*******************************************************header***********************************************************************/
+  html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Sans-serif',arial verdana;
+  font-size: ;
+  background-color: #efefef;
+  padding: 10px;
+  margin: 0;
+}
+#header h1,h3
+{
+  color: white;
+  margin-left: 3%;
+}
+#header h1
+{
+  color: 
+}
+#header .h1line2
+{
+color: #a9c4d6;
+}
+#header h3
+{
+color: #a5f0e1;
+}
+
+.section {
+  background-color: #4e6356;
+  padding: 15px;
+  display: block;
+  
+  
+}
+.sec
+{
+  margin-top: 35%;
+}
+
+#header {
+  background-image: url("../Related Pictures/back1.png");
+  background-size: cover;
+  height: 300px;
+}
+#header img {
+  display: block;
+  width: 120px;
+  height: 120px;
+  margin-top: 50px;
+  margin-left: 585px
+}
+#header p {
+  font-size: 15pt;
+  width: 50%;
+  color: #a9c4d6;
+  padding-top: 5px;
+  margin-left: 3%;
+  font-weight: bold;
+  text-align: center;
+}
+/************************************copyright********************************************/
+.copyright {
+  height:30px;
+  font-size: 8pt;
+  text-align: center;
+  background-color:#033d42; 
+  padding-top: 10px;
+  color: white;
+}
+/*****************************************coloumn*********************************/
+.main {
+  box-sizing: border-box;
+}
+
+.column1 {
+  float: left;
+  width: 65%;
+  padding: 10px;
+  color: white;
+  background-color:#4e6356;
+  
+}
+.column2 {
+  background-color:#4e6356;
+  float: left;
+  margin-left: 0.0%;
+  width: 31.85%;
+  color :white;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/******************************************************/
+.resumehead {
+  box-sizing: border-box;
+  height:30px;
+  margin: 0px;
+  
+  text-align: center;
+  background-color:#033d42; 
+
+  color: white;
+  /****************************************about me************************/
+ }
+body {
+  font-family: 'Sans-serif',arial verdana;
+}
+.aboutme
+{
+  width: 95%;
+  background-color: #033d42; ;
+  color: white;
+  padding: 10px;
+  text-align: justify;
+  box-shadow: 5px 5px 5px 5px rgb(0,0,3,6);
+  float: left;
+
+}
+.moreabout:link, .moreabout:visited {
+  background-color: #033d42;
+  color:white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border : solid #04fbf0;
+  margin-left: 40%;
+}
+
+.moreabout:hover, .moreabout:active {
+  background-color: #8ae1e3;
+  color:black;
+  border : solid black;
+}
+/*////////////////////////////////////////////////////////////////////////////*******/
+.danipic
+{
+  width:45%; 
+  height: auto;
+  box-shadow:5px 5px 5px 5px rgb(0,0,3,6);
+  margin-top: 50%; 
+  margin-left: 27%;
+  
+}
+.workpic
+{
+   width:45%; 
+  height: auto;
+  box-shadow:5px 5px 5px 5px rgb(0,0,3,6);
+  margin-top: 50%; 
+  margin-left: 27%;
+}
+/***********************res div***********************************************/
+.resdiv
+{
+ width: 95%;
+  background-color: #033d42; ;
+  color: white;
+  padding: 10px;
+  text-align: justify;
+  box-shadow: 5px 5px 5px 5px rgb(0,0,3,6);
+  float: left;
+  margin-top: 10%; 
+}
+.resdiv th,tr
+{
+  text-align: left;
+  border: 2px solid white;
+  border-top
+
+}
+.resdiv table
+{
+  
+  border-bottom: 2px double white;
+  margin-bottom: 5px;
+
+}
+.contactme
+{
+  width: 95%;
+  background-color: #033d42; ;
+  color: white;
+  padding: 10px;
+  text-align: justify;
+  box-shadow: 5px 5px 5px 5px rgb(0,0,3,6);
+  float: left;
+  margin-top: 10%;
+}
+.contactt:link, .contactt:visited {
+  background-color: #033d42;
+  color:white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border : solid #04fbf0;
+ margin-left: 15%;
+ margin-top: 5%;
+}
+
+.contactt:hover, .contactt:active {
+  background-color: #8ae1e3;
+  color:black;
+  border : solid black;
+  //*///////////////////////////////////////////////folloe me********************/
+ } #contacts img {
+  height: 50px;
+  width: 50px;
+  margin-left: 7px;
+  margin-right: 7px;
+}
+#contacts a {
+  text-decoration: none;
+  margin-left: 20%;
+}
+#contacts img:hover {
+  opacity: 0.8;
+}
+#contacts {
+  width: 95%;
+  background-color: #033d42; ;
+  color: white;
+  padding: 10px;
+  text-align: justify;
+  box-shadow: 5px 5px 5px 5px rgb(0,0,3,6);
+  float: left;
+  margin-top: 38.7%; 
+}
+}

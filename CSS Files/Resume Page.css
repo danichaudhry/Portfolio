@@ -1,0 +1,180 @@
+
+/*<!--navgation bar start-->*/
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; 
+   background-color: #033d42;
+	display: }
+.adnan
+{
+	margin-right: 59.65%;
+	background-color: #033d42;
+	border-radius: 10px;
+}
+
+nav ul li {
+  float: right;
+  margin: 0px;
+
+}
+
+nav ul li a {
+	height:20px;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+nav ul li a:hover {
+  background-color: #111;}
+  /*******************************************************header***********************************************************************/
+  html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Sans-serif',arial verdana;
+  font-size: ;
+  background-color: #efefef;
+  padding: 10px;
+  margin: 0;
+}
+#header h1,h3
+{
+  color: white;
+  margin-left: 3%;
+}
+#header h1
+{
+  color: 
+}
+#header .h1line2
+{
+color: #a9c4d6;
+}
+#header h3
+{
+color: #a5f0e1;
+}
+
+.section {
+  background-color: #4e6356;
+  padding: 15px;
+  display: block;
+  
+  
+}
+.sec
+{
+  margin-top: 35%;
+}
+
+#header {
+  background-image: url("../Related Pictures/back1.png");
+  background-size: cover;
+  height: 300px;
+}
+#header img {
+  display: block;
+  width: 120px;
+  height: 120px;
+  margin-top: 50px;
+  margin-left: 585px
+}
+#header p {
+  font-size: 15pt;
+  width: 50%;
+  color: #a9c4d6;
+  padding-top: 5px;
+  margin-left: 3%;
+  font-weight: bold;
+  text-align: center;
+}
+/************************************copyright********************************************/
+.copyright {
+  height:32px;
+  font-size: 8pt;
+  text-align: center;
+  background-color:#033d42; 
+  
+  padding-top: 10px;
+  color: white;
+  box-sizing: border-box;
+}
+/*****************************************coloumn*********************************/
+.main {
+  box-sizing: border-box;
+}
+
+.column1 {
+  float: left;
+  width: 65%;
+  padding: 10px;
+  color: white;
+  background-color:#4e6356;
+  text-align: justify;
+}
+.column2 {
+  background-color:#4e6356;
+  float: left;
+  margin-left:0.5%;
+  width: 31.48%;
+  color :white;
+  padding: 10px;
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/******************************************************/
+.resumehead {
+  box-sizing: border-box;
+  height:30px;
+  margin: 0px;
+  
+  text-align: center;
+  background-color:#033d42; 
+
+  color: white;}
+  /******************************************************/
+  .exp
+  {
+    padding: 0px;
+    marker:0px;
+    color: blue;
+  }
+  .column1 h1, .column2 h1
+  {
+    text-align: center;
+    color: #8ae1e3;
+  }
+  .column1 h2, h6
+  {
+    color: black;
+  }
+  .column h6
+  {
+    color: #033d42; 
+  }
+  .box
+  {
+    text-align: left;
+    margin-bottom: 10px;
+    padding-bottom:9.5px;
+    background-color:#033d42;
+    box-shadow:  3px 3px 3px 3px rgb(0,0,3,6);
+  }
+  .box h2
+  {
+    text-align: center;
+  }

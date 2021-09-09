@@ -1,0 +1,171 @@
+
+/*<!--navgation bar start-->*/
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; 
+   background-color: #033d42;
+	display: }
+.adnan
+{
+	margin-right: 59.65%;
+	background-color: #033d42;
+	border-radius: 10px;
+}
+
+nav ul li {
+  float: right;
+  margin: 0px;
+
+}
+
+nav ul li a {
+	height:20px;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+nav ul li a:hover {
+  background-color: #111;}
+  /*******************************************************header***********************************************************************/
+  html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Sans-serif',arial verdana;
+  font-size: ;
+  background-color: #efefef;
+  padding: 10px;
+  margin: 0;
+}
+#header h1,h3
+{
+  color: white;
+  margin-left: 3%;
+}
+#header h1
+{
+  color: 
+}
+#header .h1line2
+{
+color: #a9c4d6;
+}
+#header h3
+{
+color: #a5f0e1;
+}
+
+.section {
+  background-color: #4e6356;
+  padding: 15px;
+  display: block;
+  
+  
+}
+.sec
+{
+  margin-top: 35%;
+}
+
+#header {
+  background-image: url("../Related Pictures/back1.png");
+  background-size: cover;
+  height: 300px;
+}
+#header img {
+  display: block;
+  width: 120px;
+  height: 120px;
+  margin-top: 50px;
+  margin-left: 585px
+}
+#header p {
+  font-size: 15pt;
+  width: 50%;
+  color: #a9c4d6;
+  padding-top: 5px;
+  margin-left: 3%;
+  font-weight: bold;
+  text-align: center;
+}
+/************************************copyright********************************************/
+.copyright {
+  height:30px;
+  font-size: 8pt;
+  text-align: center;
+  background-color:#033d42; 
+  padding-top: 10px;
+  color: white;
+}
+/*****************************************coloumn*********************************/
+.main {
+  box-sizing: border-box;
+}
+
+
+/******************************************************/
+.contacthead {
+  box-sizing: border-box;
+  height:30px;
+  margin: 0px;
+  
+  text-align: center;
+  background-color:#033d42; 
+
+  color: white;}
+  /******************************************************************************************/
+  form {
+  text-align: center;
+  margin-top: 0;
+  background-color: #4e6356;
+}
+.submit {
+  background-color: #033d42;
+  padding: 12px 45px;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  margin: 0;
+  font-weight: bold;
+  margin-bottom: 2%;
+}
+.submit:hover {
+  background-color: #00f3ff
+  ;
+}
+textarea {
+  height: 100px;
+}
+input, textarea {
+  margin-bottom: 10px;
+  font-size: 11pt;
+  padding: 15px 10px 10px;
+  border: 1px solid #cecece;
+  background-color: #efefef;
+  color: #787575;
+  border-radius: 5px;
+  width: 70%;
+  outline: none;
+}
+.face {
+  transform: scale(0.4);
+  margin: 0 auto;
+  display: block;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  background-color: #4e6356;
+}
+#section
+{
+  background-color: #4e6356;
+}
